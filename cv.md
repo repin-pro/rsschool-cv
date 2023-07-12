@@ -16,14 +16,14 @@ At the moment I am undergoing frontend developer training, I plan to bring HTML,
 
 ## Skills
 
-* HTML,
-* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology),
-* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),
-* React JS, Redux (I'm starting to study),
-* Version control: Git (remote service GitHub),
-* Module Bundlers: Gulp, Webpack,
-* Windows OS, Linux(Ubuntu),
-* Figma, Adobe (Illustrator, Photoshop) (at the web designer level),
+* HTML
+* CSS (Framework Bootstrap, Preprocessor SCSS, BEM methodology)
+* JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM)
+* React JS, Redux (I'm starting to study)
+* Version control: Git (remote service GitHub)
+* Module Bundlers: Gulp, Webpack
+* Windows OS, Linux(Ubuntu)
+* Figma, Adobe (Illustrator, Photoshop) (at the web designer level)
 * Editors: VSCode.
 
 ## Code examples
